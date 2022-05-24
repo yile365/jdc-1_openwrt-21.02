@@ -32,7 +32,7 @@ DIY 脚本：[diy-x86-Lean.sh](https://github.com/sypopo/diy/blob/master/diy-x86
 [Lienol源码](https://github.com/Lienol/openwrt)  构建的 x86_64 固件. 
 
 workflows: [build-openwrt-Lienol](https://github.com/sypopo/Actions-OpenWrt/blob/master/.github/workflows/build-openwrt-Lienol.yml)
-
+test
 config：[config-x86-Lienol](https://github.com/sypopo/diy/blob/master/config-x86-Lienol)
 
 DIY 脚本：[diy-x86-Lienol.sh](https://github.com/sypopo/diy/blob/master/diy-x86-Lienol.sh)
